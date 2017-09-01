@@ -1,3 +1,4 @@
+
 #CodeBoy微信抢红包外挂
 
 #### 效果预览
@@ -148,3 +149,7 @@ feedbackAllMask | 所有以上的反馈
 英文名:Leon<br>
 个人博客:[http://www.happycodeboy.com](http://www.happycodeboy.com)<br>
 Email:codeboy2013@gmail.com<br>
+=======
+# Grab_a_red_envelope
+Android Java use AccessibilityService to support QQ and wechat
+>>>>>>> 062d89a0b75882a4f6b9d8d7c8b2ea63843f45d8
